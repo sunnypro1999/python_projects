@@ -38,3 +38,7 @@ print(f.swapcase())
 e="welcome to the game of dead by daylight test 2"
 e=e.title()
 print(e.swapcase())
+
+e="welcome to the game"
+
+print(e.center(50))
